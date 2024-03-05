@@ -605,7 +605,7 @@ body {
 }
 .modal-close-btn:hover,
 .modal-close-btn:focus {
-  background-color: #404bbf;
+  background-color: #ffffff;
   border: none;
 }
 .modal-close-btn-icon {
@@ -635,7 +635,7 @@ body {
   margin-bottom: 16px;
 }
 .review-form-field-wrapper {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 .review-form-field-label {
   display: block;
