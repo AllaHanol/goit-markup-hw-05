@@ -619,7 +619,7 @@ body {
 }
 .modal-close-btn-icon:hover,
 .modal-close-btn-icon:focus {
-  fill: #ffffff;
+   fill: #ffffff;
 }
 
 /* Review form styles  */
@@ -636,7 +636,7 @@ body {
   margin-bottom: 16px;
 }
 .review-form-field-wrapper {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 .review-form-field-label {
   display: block;
@@ -701,7 +701,7 @@ body {
 }
 
 .review-form-checkbox-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 
 .review-form-checkbox-label {
