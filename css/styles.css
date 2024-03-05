@@ -623,6 +623,9 @@ body {
 }
 
 /* Review form styles  */
+.review-form{
+  margin-bottom: 8px;
+}
 .review-form-description {
   max-width: 517px;
   font-weight: 500;
