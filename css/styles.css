@@ -70,8 +70,7 @@ body {
   gap: 40px;
 }
 .menu-link {
-  /* position: relative; */
-  color: #404bbf;
+   color: #404bbf;
 }
 .menu-item,
 .menu-link {
@@ -117,7 +116,6 @@ body {
 }
 .adress-link {
   font-weight: 400;
-
   color: #434455;
   padding-top: 24px;
   padding-bottom: 24px;
